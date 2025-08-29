@@ -7,7 +7,7 @@ An **English version can be provided on request**.
 
 ## Overview  
 This homework consists of two main tasks:  
-
+ 
 1. **Urban Scene Segmentation (Fast-SCNN)**  
    - Implemented **Fast-SCNN** for semantic segmentation using the **CamVid dataset**.  
    - Covered preprocessing, model implementation, training, and evaluation using metrics like **IoU**, **Dice Coefficient**, and **Accuracy**.  
